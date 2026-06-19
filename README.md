@@ -20,7 +20,7 @@ Research shows students waste 45-50 minutes daily just deciding what to study ne
 - [x] Frontend scaffold (React + Tailwind CSS)
 - [x] Dashboard UI component(will make better with time)
 - [x] Pomodoro Timer component
-- [ ] AI schedule generation route (in progress will be using chatgpt(free model))[but claude will be better(paid one)]
+- [x] AI schedule generation route (used Openrouter's API)
 - [ ] Subject-wise progress tracker (in progress)
 - [ ] Weekly productivity dashboard (planned)
 - [ ] AI Recovery Mode (planned)
